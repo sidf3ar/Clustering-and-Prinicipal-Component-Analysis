@@ -22,3 +22,25 @@ Mention the problem statement and the analysis approach.
 Explain the results of Principal Component Analysis and Clustering briefly.
 Include visualisations and summarise the most important results in the presentation.
 Make sure that you mention the final list of countries here ( Don't just mention the cluster id or cluster name here. Mention the names of all the countries.)
+
+<strong>Assignment: Part II</strong>
+ 
+Question 1: Assignment Summary
+
+Briefly describe the "Clustering of Countries" assignment that you just completed within 200-300 words. Mention the problem statement and the solution methodology that you followed to arrive at the final list of countries. Explain your main choices briefly( why you took that many numbers of principal components, which type of Clustering produced a better result and so on) 
+
+Question 2: Clustering
+
+      a) Compare and contrast K-means Clustering and Hierarchical Clustering.
+      b) Briefly explain the steps of the K-means clustering algorithm. 
+      c) How is the value of ‘k’ chosen in K-means clustering? Explain both the statistical as well            as the business aspect of it.
+      d) Explain the necessity for scaling/standardisation before performing Clustering.
+      e) Explain the different linkages used in Hierarchical Clustering.
+
+Question 3: Principal Component Analysis
+
+      a) Give at least three applications of using PCA.
+      b) Briefly discuss the 2 important building blocks of PCA - Basis transformation and variance as information.
+      c) State at least three shortcomings of using Principal Component Analysis.
+
+
