@@ -33,7 +33,7 @@ Question 2: Clustering
 
       a) Compare and contrast K-means Clustering and Hierarchical Clustering.
       b) Briefly explain the steps of the K-means clustering algorithm. 
-      c) How is the value of ‘k’ chosen in K-means clustering? Explain both the statistical as well            as the business aspect of it.
+      c) How is the value of ‘k’ chosen in K-means clustering? Explain both the statistical as well as the business aspect of it.
       d) Explain the necessity for scaling/standardisation before performing Clustering.
       e) Explain the different linkages used in Hierarchical Clustering.
 
